@@ -21,5 +21,9 @@ Things not covered is:
 and the link to the heroku to view my developed app:
 https://aryaui.herokuapp.com/
 
+Default User created for checking:
+username: Test User
+Password: 123456789
+
 
 Thanks!!!!
