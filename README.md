@@ -18,5 +18,9 @@ Things not covered is:
 2. Timestamp for the users.
 
 
+and the link to the heroku to view my developed app:
+https://aryaui.herokuapp.com/
+
+
 Thanks!!!!
 
